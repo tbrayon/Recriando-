@@ -1,5 +1,5 @@
 # Desafio DIO
-á Página Inicial do Instagram
+Página Inicial do Instagram
 
 ## Pagina inicial do Instagram (Exemplo):
 
